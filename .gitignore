@@ -1,0 +1,6 @@
+*.swp
+*.swo
+*.h5
+*.root
+*.pyc
+dataset/
